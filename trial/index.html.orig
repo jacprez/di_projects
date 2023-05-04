@@ -7,9 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-
+<<<<<<< HEAD
     <p>Hey Everyone, are working together on Git and Github. </p>
+=======
     <h1>Hey Ally</h1>
-
+>>>>>>> 7ad11cdd9bbc83cc27973c77dbd382eb586f2d8f
 </body>
 </html>
